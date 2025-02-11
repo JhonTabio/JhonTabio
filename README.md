@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I am Jhon Tabio</h1>
-<h3 align="center">A passionate fullstack developer, AI enthusiast, and Embedded Systems engineer</h3>
+<h3 align="center">Fullstack / AI developer and Embedded Systems engineer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jhontabio&label=Profile%20views&color=A020F0&style=flat" alt="jhontabio"/> 
