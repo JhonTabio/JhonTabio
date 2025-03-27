@@ -31,7 +31,7 @@
 </p>
 
 <div style={display: flex, justify-content: center}>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhontabio&show_icons=true&locale=en&layout=compact" alt="jhontabio"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhontabio&show_icons=true&locale=en&layout=compact&custom_title=Language&nbsp;Distribution&size_weight=0.5&count_weight=0.5" alt="jhontabio"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhontabio&show_icons=true&locale=en" alt="jhontabio"/>
   <!--&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhontabio&" alt="jhontabio"/>-->
 </div>
