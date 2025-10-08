@@ -8,7 +8,7 @@
 
 <h3 align="left">Quick information about me:</h3>
 
-- 🌱 I’m currently learning **Rust and a deeper dive into Embedded Systems**
+- 🌱 I’m currently learning the **Modelica language**
 
 - 📝 My portfolio available at [jhontabio.com](https://jhontabio.com)
 
@@ -19,7 +19,9 @@
 </br>
 
 <p id="bio">
-  Currently an undergraduate student that is pursuing a Bachelors in Computer Science at the University of Central Florida.
+  Graduated with a Bachelors in Computer Science at the University of Central Florida.
+
+  Software Developer at the University of Central Florida
   
   I like to build software that interests me, usually either meddling around <strong>software</strong> that pertains to games or poking fun at <strong>Artificial Intelligence</strong>.  
   
@@ -31,8 +33,8 @@
 </p>
 
 <div style={display: flex, justify-content: center}>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhontabio&show_icons=true&locale=en&layout=compact&custom_title=Language&nbsp;Distribution&size_weight=0.5&count_weight=0.5" alt="jhontabio"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhontabio&show_icons=true&locale=en" alt="jhontabio"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhontabio&show_icons=true&locale=en&layout=compact&custom_title=Language&nbsp;Distribution&size_weight=0.5&count_weight=0.5&theme=dark" alt="jhontabio"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhontabio&show_icons=true&locale=en&theme=dark" alt="jhontabio"/>
   <!--&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhontabio&" alt="jhontabio"/>-->
 </div>
 
