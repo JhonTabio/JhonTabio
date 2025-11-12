@@ -90,7 +90,7 @@ IDEs:<br>
 ### GitHub Analytics
 
 <div style={display: flex, justify-content: center}>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhontabio&show_icons=true&hide=Svelte&locale=en&layout=compact&custom_title=Language&nbsp;Distribution&size_weight=0.5&count_weight=0.5&theme=dark" alt="jhontabio"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhontabio&show_icons=true&hide=Svelte,HTML,CSS&locale=en&layout=compact&custom_title=Language&nbsp;Distribution&size_weight=0.5&count_weight=0.5&theme=dark" alt="jhontabio"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhontabio&show_icons=true&ring_color=9400D3&locale=en&theme=dark" alt="jhontabio"/>
   <!--&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhontabio&" alt="jhontabio"/>-->
 </div>
