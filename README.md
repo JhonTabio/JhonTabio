@@ -17,7 +17,7 @@
   
   - 📝 My portfolio is available at [jhontabio.com](https://jhontabio.com "My portfolio page")
   
-  - ⚡ Fun fact **Java was my first programming langauge** that I self taught myself in Middle School because of my desire to modify Minecraft
+  - ⚡ Fun fact **Java was my first programming langauge** that I self taught in Middle School because of my desire to modify Minecraft
     
   </div>
 </div>
